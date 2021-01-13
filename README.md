@@ -1,18 +1,21 @@
 # ItemModifier
 A plugin that allows modification to items' settings.
 
-Download latest release from here
+Download latest release from [here](https://github.com/RestoreMonarchy/ItemModifier/releases)
 
 Add ItemModifications like following:
 
-<Item>
-  <ID>363</ID>
-  <PlayerDamage>100</PlayerDamage>  
-</Item>
-<Item>
-  <ID>1169</ID>
-  <Armor>0.55</Armor>  
-</Item>
+```xml
+  <Item>
+    <ID>363</ID>
+    <PlayerDamage>100</PlayerDamage>  
+  </Item>
+  <Item>
+    <ID>1169</ID>
+    <Armor>0.55</Armor>  
+  </Item>
+```
+
 
 Available Modifications:
 
